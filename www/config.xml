@@ -4,8 +4,8 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id          = "com.gamingplatform.tictactoe"
-        versionCode = "18"
-        version     = "18.0.0" >
+        versionCode = "1"
+        version     = "1.0.0" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
       see: http://developer.android.com/tools/publishing/versioning.html
@@ -14,11 +14,11 @@
       <string>1800</string>
     </gap:config-file>
 
-    <content src="http://gameinvite.us/app/index.html?phonegapPlugins=v101&amp;onlyGameId=5125637257822208-1" />
+    <content src="http://mkunaparaju.github.io/default-theme/app/index.html?onlyGameId=4907863860314112-0#/main" />
 
-    <name>Tic Tac Toe</name>
-    <author email="yoav.zibin@gmail.com">
-        yoav.zibin@gmail.com
+    <name>Ludo</name>
+    <author email="mkunaparaju@gmail.com">
+        mkunaparaju@gmail.com
     </author>
 
     <preference name="android-build-tool" value="gradle" />
